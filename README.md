@@ -1,5 +1,5 @@
 Proyecto SENA - Gestión de Porcinos 🐖
-Repositorio: GitHub - pucara05/proyecto-sena-cerdos
+Repositorio: GitHub - pucara05/GestiondePorcino
 Fecha de desarrollo: Abril 2023 - Diciembre 2023
 
 Descripción
@@ -66,7 +66,7 @@ Separación del código en capas con controladores usando @Controller.
    1.Clona el repositorio:
 
 
-  git clone https://github.com/pucara05/proyecto-sena-cerdos.git
+  git clone https://github.com/pucara05/GestiondePorcino.git
 
 2. Navega al directorio del proyecto:
 
